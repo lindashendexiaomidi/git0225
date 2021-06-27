@@ -12,5 +12,6 @@ public class text {
         System.out.println("master");
         System.out.println("host-fix");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
